@@ -1,6 +1,9 @@
 {
   "name": "knightbot",
   "version": "1.0.0",
+  "engines": {
+    "node": "20.x"
+  },
   "description": "WhatsApp Bot",
   "main": "index.js",
   "scripts": {
